@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <main className="App">
-    <h1>learn react</h1> 
+    <a href="https://ultimate.com" rel='noopener noreferrer' data-testid="learn-link">Learn Testing</a> 
     </main>
   );
 }
